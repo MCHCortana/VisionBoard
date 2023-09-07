@@ -1,0 +1,64 @@
+body {
+    background: linear-gradient(106.7deg, rgb(151, 150, 240) 12.1%, rgb(255, 206, 236) 63.2%);
+    color: rgb(255, 255, 255);
+
+    padding: 0 10rem;
+    padding-left: 15rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+header {
+    margin: 2rem;
+    text-align: center;
+}
+
+section {
+    display: inline-block;
+    width: 25%;
+    text-align: left;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: rgba(233, 100, 204, 0.534);
+    border-radius: 1rem;
+    overflow: auto;
+}
+
+img {
+    width: 80%;
+    border-radius: 0.8rem;
+    filter: drop-shadow(.5rem .5rem 1rem rgba(238, 34, 51, 0.575));
+    margin-left: 10%;
+    padding: auto;
+}
+
+.important {
+    margin-top: 0.5rem;
+}
+
+ul {
+    line-height: 2rem;
+    margin: 0;
+}
+
+span {
+    color: purple;
+}
+
+.finalProjectLink {
+    background: linear-gradient(91.9deg, rgb(243, 31, 105) 5.7%, rgb(249, 233, 47) 92.9%);
+}
+
+button {
+    color: white;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 1rem;
+
+}
+
+footer {
+    font-size: 0.8rem;
+    text-decoration: none;
+}
