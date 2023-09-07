@@ -37,9 +37,11 @@ img {
     margin-top: 0.5rem;
 }
 
-ul {
+ol {
     line-height: 2rem;
     margin: 0;
+    list-style: none;
+    padding-left: 8%;
 }
 
 span {
