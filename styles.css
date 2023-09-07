@@ -50,12 +50,19 @@ span {
     background: linear-gradient(91.9deg, rgb(243, 31, 105) 5.7%, rgb(249, 233, 47) 92.9%);
 }
 
+a {
+    text-decoration: none;
+}
+
 button {
     color: white;
     background-color: blueviolet;
     border: none;
     border-radius: 1rem;
+}
 
+strong {
+    font-weight: 600;
 }
 
 footer {
